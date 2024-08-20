@@ -1,0 +1,15 @@
+
+table {
+  border-spacing: 0px;
+  border: 1px solid black;
+  width:100px;
+  height:100px;
+}
+
+.a:nth-child(even){   
+    background-color:black;
+}
+
+.b:nth-child(odd){
+    background-color:black;
+}

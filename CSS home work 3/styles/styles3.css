@@ -1,0 +1,28 @@
+/* p:first-child{
+    color:red; */
+}
+a:hover{
+    text-decoration:none;
+}
+a{
+    color:orange;
+}
+a:visited{
+    color:green;
+}
+
+.container:first-line{
+    font-size:150%;
+    color:red;
+}
+tr:nth-child(even){
+    background-color:#333;
+    color:white;
+    
+}
+table{
+    border-spacing:0px;    
+}
+td, tr, th{
+    padding:5px;
+}

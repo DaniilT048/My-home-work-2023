@@ -1,0 +1,11 @@
+#p1::first-line {
+    color:red;
+}
+span.s1 {
+    color:blue;
+    font-weight: bold;
+}
+span[title] {
+    color:green;
+    font-style:italic;   
+}
